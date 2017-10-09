@@ -20,7 +20,7 @@ function cifred(phrase, n){
 
 function descifred(phraseDescifred, n){
 phraseDescifred = []
-phraseDescifred = frase.toCharArray(); 
+phraseDescifred = phrase.toCharArray(); 
  
         for(i=0;i<phrase.length();i++){ 
             for(j=0;j<n;j++){ 
